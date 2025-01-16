@@ -1,3 +1,4 @@
+![Screenshot from 2025-01-16 12-35-45](https://github.com/user-attachments/assets/494a4691-8082-4f15-955a-986cac1731d5)
 Creating our First Microservice: Product Service 
 Here is the architecture diagram of the project.
 Image
