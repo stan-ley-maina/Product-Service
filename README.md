@@ -18,4 +18,5 @@ Let's start creating our first microservice (Product Service). We will keep this
 - Maven as the build tool
 
 # Here is the architecture diagram of the project.
-![Screenshot from 2025-01-16 12-35-45](https://github.com/user-attachments/assets/494a4691-8082-4f15-955a-986cac1731d5)
+![Micro-Servicess](https://github.com/user-attachments/assets/d2eb6660-0820-4fb0-babe-0630380ae5d6)
+
